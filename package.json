@@ -1,5 +1,5 @@
 {
-	"name": "done-with-it-backend",
+	"name": "orientline-backend",
 	"main": "index.js",
 	"scripts": {
 		"dev": "nodemon index.js",
