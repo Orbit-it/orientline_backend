@@ -11,7 +11,7 @@ module.exports = async (req, res, next) => {
 		await sharp(file.path)
 			.resize(2000)
 			.jpeg({ quality: 50 })
-			.toFile(path.resolve(outputFolder, file.filename + "_full.jpg"));
+			.toFile(path.resolve(outputFolder, file.filename + "_full.jpg"));	
 
 		await sharp(file.path)
 			.resize(100)

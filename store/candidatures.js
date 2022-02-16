@@ -1,13 +1,6 @@
 
 const candidatures = [
-	{
-		id: 1,
-		title: "Génie Electrotechnique",
-		institute: "IPSAS",
-		user:"Default User",
-		email:"Defaul mail",
-		nationality:"Default nationality",
-	},
+	
 ];
 
 const addcandidature = (candidature) => {

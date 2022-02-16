@@ -1,5 +1,5 @@
 {
-	"assetsBaseUrl": "ec2-18-168-205-125.eu-west-2.compute.amazonaws.com", 
+	"assetsBaseUrl": "http://18.130.156.210:9000/assets/", 
 	"port": 9000
 }
 

@@ -56,7 +56,6 @@ router.post(
 			duration: req.body.duration,
 			price: req.body.price,
 		};
-
 		listing.images = req.images.map((fileName) => ({ fileName: fileName }));
 
 		store.addListing(listing);

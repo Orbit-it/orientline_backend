@@ -22,18 +22,47 @@ const users = [
 	},
 	{
 		id: 4,
-		nationality:"Tunisienne",
-		name: "User3",
-		email: "user2@orientline.tn",
-		password: "123456",
+		nationality:"République Démocratique du Congo",
+		name: "Ngoie Hermès",
+		email: "ngoiehermes8@gmail.com",
+		password: "kaz@Her26",
 	},
 	{
 		id: 5,
-		nationality:"Tunisienne",
-		name: "User4",
-		email: "user2@orientline.tn",
-		password: "123456",
+		nationality:"République Démocratique du Congo",
+		name: "Grace mafuta",
+		email: "Gmafuta3@gmail.com",
+		password: "gm1234",
 	},
+	{
+		id: 6,
+		nationality:"République Démocratique du Congo",
+		name: "Okumaka",
+		email: "naomieokumaka@gmail.com",
+		password: "nao20055",
+	},
+	{
+		id: 7,
+		nationality:"République Démocratique du Congo",
+		name: "BOLEMBO",
+		email: "christianbolembo31@gmail.com",
+		password: "christianekwambengo31@",
+	},
+	{
+		id: 8,
+		nationality:"République Démocratique du Congo",
+		name: "imani",
+		email: "adonaiimani63@gmail.com",
+		password: "adonaitina$",
+	},
+	{
+		id: 9,
+		nationality:"République Démocratique du Congo",
+		name: "Chris",
+		email: "Christianb98@gmail.com",
+		password: "29403332",
+	},
+
 	
 ];
 
